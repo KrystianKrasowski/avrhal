@@ -5,7 +5,7 @@
 #ifndef _AVRHAL_ATMEGA88PA_TIMER0_H
 #define _AVRHAL_ATMEGA88PA_TIMER0_H
 
-#include "std.h"
+#include "avrhal/std.h"
 #include <stdint.h>
 
 void
