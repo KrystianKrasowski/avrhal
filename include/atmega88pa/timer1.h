@@ -1,5 +1,5 @@
 #ifndef _AVRHAL_TIMER1_H
-#error "Include <avrhal/timer1_pwm.h> instead of this file"
+#error "Include <avrhal/timer1.h> instead of this file"
 #endif
 
 #ifndef _AVRHAL_ATMEGA88PA_TIMER1_H
