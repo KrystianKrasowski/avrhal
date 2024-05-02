@@ -37,8 +37,6 @@ typedef enum
     HAL_GPIO_PD7,
 } hal_gpio_pin_t;
 
-#endif
-
 /**
  * @brief GPIO direction mode
  * 

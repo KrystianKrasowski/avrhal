@@ -1,4 +1,4 @@
-#ifndef _AVRHAL_TIMER1_CTC_H
+#ifndef _AVRHAL_TIMER1_INTERRUPTS_H
 #error "Include <avrhal/timer1_interrupts.h> instead of this file"
 #endif
 

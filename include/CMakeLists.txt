@@ -1,0 +1,2 @@
+add_subdirectory(atmega88pa)
+add_subdirectory(avrhal)

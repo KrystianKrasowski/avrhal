@@ -6,3 +6,5 @@
 #else
 #error "Device type is not defined"
 #endif
+
+#endif

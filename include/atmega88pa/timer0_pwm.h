@@ -1,5 +1,5 @@
 #ifndef _AVRHAL_TIMER0_PWM_H
-#error "Include <avrhal/spi.h> instead of this file"
+#error "Include <avrhal/timer0_pwm.h> instead of this file"
 #endif
 
 #ifndef _AVRHAL_ATMEGA88PA_TIMER0_PWM_H

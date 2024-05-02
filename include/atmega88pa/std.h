@@ -1,5 +1,5 @@
 #ifndef _AVRHAL_STD_H
-#error "Include <avrhal/spi.h> instead of this file"
+#error "Include <avrhal/std.h> instead of this file"
 #endif
 
 #ifndef _AVRHAL_ATMEGA88PA_STD_H

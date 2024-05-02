@@ -1,11 +1,11 @@
 #ifndef _AVRHAL_TIMER0_H
-#error "Include <avrhal/spi.h> instead of this file"
+#error "Include <avrhal/timer0.h> instead of this file"
 #endif
 
 #ifndef _AVRHAL_ATMEGA88PA_TIMER0_H
 #define _AVRHAL_ATMEGA88PA_TIMER0_H
 
-#include "std.h"
+#include "avrhal/std.h"
 #include <stdint.h>
 
 void
